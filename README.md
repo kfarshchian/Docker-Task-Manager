@@ -6,7 +6,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This application uses Express to save notes into the server database. It also uses UUID to add a key to the notes and allows the notes to be deleted from the database when the delete button sends the UUID id back to the database with the delete request. 
+  
 
   ## Table of Contents
   - [License](#License)
@@ -18,8 +18,7 @@
   - [Questions](#Questions)
   
   ## Installation
-  - npm i express
-  - npm i uuid
+  
 
   ## Usage
   ![alttext](./assets/images/site1.png)
